@@ -1,5 +1,5 @@
 
-  #  <h1>👋Olá, sou o Diogo, um desenvolvedor Front-end apaixonado pelo que faz!</h1>
+  #  <h1>👋Olá, sou o Diogo, um desenvolvedor Front-end </h1>
 <div>
  <a href="https://www.instagram.com/diogorennam" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -12,9 +12,9 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Tive meu primeiro contato com linhas de código aos 17 anos de idade, quando entrei pra faculdade. Depois de estudar muito percebir que estou na área que amo, com muita pesquisa e pratica consegui finalmente encontra em qual área da tecnologia quero atuar, desde então decidi que queria fazer isso pro resto da  minha vida — quero ser um programador de sucesso.
+- 👨🏻‍💻 &nbsp; Tive meu primeiro contato com linhas de código aos 17 anos de idade, quando entrei pra faculdade. Depois de estudar muito percebir que estou na área que amo, com muita pesquisa e pratica consegui finalmente encontra em qual área da tecnologia quero atuar, desde então decidi que queria fazer isso pro resto da  minha vida.
 - 💚 &nbsp; Conforme fui adquirindo conhecimento na área, descobri que tinha uma paixão: que é programar não me vejo em outra área se não for a de desenvolvimento.
-- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web. Utilizo a stack JavaScript (React ) para desenvolver as aplicações, pretendo aprender stacks voltado para o back-end também como o nodejs.
+- 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira a área de desenvolvimento web e mobile. Utilizo a stack JavaScript (React ) e (ReactNative) para desenvolver as aplicações, pretendo aprender stacks voltado para o back-end também como o nodejs.
 - 🏎 &nbsp; Sou apaixonado por café hahaha, costumo sair com os amigos no meu tempo livre, ler livros, assitir filmes. É o que eu mais gosto de fazer pra me divertir e esvaziar a cabeça haha!
 - 💵 &nbsp; Também gosto muito de educação, ciência e é claro tecnologia ❤️
 
