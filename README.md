@@ -33,7 +33,7 @@
 
  ## 📊 Github Status
    
- <img height="175em" src="https://github-readme-stats.vercel.app/api?username=diogorennam&show_icons=true&theme=dark">
- <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorennam&layout=compact&theme=dark">
+ <img height="175em" src="https://github-readme-stats.vercel.app/api?username=diogorennamdev&show_icons=true&theme=dark">
+ <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogorennamdev&layout=compact&theme=dark">
  
   
